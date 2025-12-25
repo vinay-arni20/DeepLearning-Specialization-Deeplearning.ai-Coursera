@@ -120,7 +120,7 @@ The specialization is structured into five progressive courses, each building on
 
 #### Self-Made Notes (PDFs):
 - [Week 1 ML Strategy](Course3-Structuring-Machine-Learning-Projects/C3_Week_1_ML_Strategy.pdf)
-- [Week 2 ML Strategy](Course3-Structuring-Machine-Learning-Projects/C3_Week2_ML_Strategy.pdf)
+- [Week 2 ML Strategy](Course3-Structuring-Machine-Learning-Projects/C3_Week_2_ML_Strategy.pdf)
 
 ### Course 4: Convolutional Neural Networks
 
